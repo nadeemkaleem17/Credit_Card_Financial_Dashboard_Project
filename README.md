@@ -1,4 +1,4 @@
-![transaction_report_page-0001](https://github.com/user-attachments/assets/93b23517-aec1-4e85-8f7b-799d3ad0fcac)
+![transaction_report_page-0001](https://github.com/user-attachments/assets/d0d79f26-b149-45ce-a472-900bbec9a52f)
 
 # Credit Card Financial Dashboard
 ## Project Overview
