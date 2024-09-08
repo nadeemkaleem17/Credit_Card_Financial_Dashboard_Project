@@ -1,3 +1,5 @@
+![transaction_report_page-0001](https://github.com/user-attachments/assets/93b23517-aec1-4e85-8f7b-799d3ad0fcac)
+
 # Credit Card Financial Dashboard
 ## Project Overview
 This project focuses on developing a Credit Card Weekly Dashboard that provides real-time insights into key performance metrics and trends. The goal is to enable stakeholders to monitor and analyze credit card operations effectively.
