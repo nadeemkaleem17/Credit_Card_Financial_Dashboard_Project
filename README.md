@@ -20,7 +20,7 @@ The primary objective is to build a comprehensive dashboard that highlights esse
   ### 3. Dashboard Design & Insights
   Designed the dashboard to present a clear view of: <br>
   <li> WoW Change (Week 53):
-  <li> Revenue increased by 28.8%.
+  <li> Revenue increased by 29%.
   <li> Total Transaction Amount & Count increased by specific percentages.
   <li> Customer Count saw a significant rise.<br>
 
